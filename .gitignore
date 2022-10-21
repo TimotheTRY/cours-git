@@ -15,3 +15,7 @@
 *.exe
 *.out
 *.app
+
+
+#Perso file
+cours.csv
